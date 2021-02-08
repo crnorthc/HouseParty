@@ -37,3 +37,7 @@ The third video went over how to setup the frontend.
 - npm install @material-ui/icons
 - setup babel.config.json
 - setup webpack.config.js
+
+## Video #4 
+
+The fourth video went over styling, component creation, and react router.
