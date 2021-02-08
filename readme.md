@@ -4,6 +4,8 @@ This is a project following a tutorial by Tech With Tim on YouTube.
 
 https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j
 
+## Setup
+
 in music_controller/frontend
 - npm run dev
 
