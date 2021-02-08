@@ -45,3 +45,7 @@ The fourth video went over styling, component creation, and react router.
 ## Video #5
 
 The fifth video went over how to handle a POST request.
+
+## Video #6
+
+The sixth video went over how to create the Create Room ui in React and implement it into the backend.

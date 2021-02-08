@@ -2,7 +2,7 @@ from django.shortcuts import render
 from rest_framework import generics, status
 from .serializers import RoomSerializer, CreateRoomSerializer
 from .models import Room
-from rest_framework import APIview
+from rest_framework.views import APIView
 from rest_framework.response import Response
 
 
@@ -29,7 +29,7 @@ class CreateRoomView(APIView):
                 room.votes_to_skip = votes_to_skip
                 room.save(update_fields=['guest_can_pause', 'votes_to_skip'])
             else:
-                room = Room(host=host, guest_can_pause=guest_can_pasue,
+                room = Room(host=host, guest_can_pause=guest_can_pause,
                             votes_to_skip=votes_to_skip)
                 room.save()
             return Response(RoomSerializer(room).data, status=status.HTTP_200_OK)
