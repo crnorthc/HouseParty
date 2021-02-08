@@ -2,6 +2,12 @@
 
 This is a project following a tutorial by Tech With Tim on YouTube.
 
+in music_controller/frontend
+- npm run dev
+
+in music_controller
+- python manage.py runserver
+
 ## Video #1
 
 The first video went over how to setup a django backend.
