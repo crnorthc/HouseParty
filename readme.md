@@ -75,3 +75,6 @@ The ninth video went over how to handle a previous session when getting to the h
 ## Video #10
 
 The tenth video went over how to leave/delete rooms.
+
+## Video #11
+The eleventh video went over how to update a room's settings.
