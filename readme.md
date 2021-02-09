@@ -67,3 +67,7 @@ The seventh video went over how to call API endpoints from react.
 ## Video #8 
 
 The eighth video went over how to create the room join page and set it up in the backend.
+
+## Video #9
+
+the ninth video went over how to handle a previous session when getting to the home page. 
