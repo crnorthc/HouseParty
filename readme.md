@@ -6,11 +6,11 @@ https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j
 
 ## Setup
 
-in music_controller/frontend
-- npm run dev
-
 in music_controller
 - python manage.py runserver
+
+in music_controller/frontend
+- npm run dev
 
 ## Video #1
 
@@ -70,4 +70,8 @@ The eighth video went over how to create the room join page and set it up in the
 
 ## Video #9
 
-the ninth video went over how to handle a previous session when getting to the home page. 
+The ninth video went over how to handle a previous session when getting to the home page. 
+
+## Video #10
+
+The tenth video went over how to leave/delete rooms.
