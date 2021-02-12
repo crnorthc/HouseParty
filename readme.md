@@ -85,3 +85,9 @@ The eleventh video went over how to update a room's settings.
 - npm install @material-ui/lab
 
 The twelth video went over how to create default props and setup callbacks for data refresh.
+
+## Video #13
+
+- python manage.py startapp spotify
+
+The thirteenth video went over how to connect the app to the Spotify API and authorize users.
