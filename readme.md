@@ -91,3 +91,7 @@ The twelth video went over how to create default props and setup callbacks for d
 - python manage.py startapp spotify
 
 The thirteenth video went over how to connect the app to the Spotify API and authorize users.
+
+## Video #14
+
+The fourteenth video goes over how to use the Spotify API. (Display the currently playing song)
