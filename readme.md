@@ -98,4 +98,8 @@ The fourteenth video goes over how to use the Spotify API. (Display the currentl
 
 ## Video #15
 
-The fifteenth video goes over how to play/pause a song on Spotify.
+The fifteenth video goes over how to play/pause a song on Spotify API.
+
+## Video #16
+
+The sixteenth video went over how to skip a song via the Spotify API with votes.
