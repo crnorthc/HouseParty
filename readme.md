@@ -103,3 +103,7 @@ The fifteenth video goes over how to play/pause a song on Spotify API.
 ## Video #16
 
 The sixteenth video went over how to skip a song via the Spotify API with votes.
+
+## Video #17
+
+In the last video, Tim went over the basics of a functional component.
